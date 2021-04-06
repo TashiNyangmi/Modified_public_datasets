@@ -1,43 +1,39 @@
-﻿County,City,State,,,,
-Hartford,Hartford,CT,,,,
-District of Columbia ,Washington DC,DC,,,,
-Dekalb,Atlanta,GA,,,,
-Fulton,Atlanta,GA,,,,
-Cobb,Atlanta,GA,,,,
-Baltimore City,Baltimore,MD,,,,
-Jefferson,Birmingham,AL,,,,
-Shelby,Birmingham,AL,,,,
-Mecklenburg,Charlotte,NC,,,,
-Cook,Chicago,IL,,,,
-Cuyahoga,Cleveland,OH,,,,
-Richland,Columbia,SC,,,,
-Liberty,Houston ,TX,,,,
-Harris,Houston,TX,,,,
-Fort Bend,Houston,TX,,,,
-Brazoria,Houston,TX,,,,
-Montgomery,Houston ,TX,,,,
-Galveston,Houston,TX,,,,
-Waller,Houston,TX,,,,
-Marion,Indianapolis,IN,,,,
-Jackson,Kansas City,MO,,,,
-Knox,Knoxville,TN,,,,
-Jefferson,Louisville,KY,,,,
-Lorain,Lorain County,OH,,,,
-Los Angeles,Los Angeles,CA,,,,
-Milwaukee,Milwaukee,WI,,,,
-Brooklyn,New York ,NY,,,,
-Staten Island,New York,NY,,,,
-Queens,New York ,NY,,,,
-New York,New York,NY,,,,
-Bronx,New York ,NY,,,,
-Allegheny,Pittsburgh,PA,,,,
-Philadelphia,Philadelphia,PA,,,,
-Monroe,Rochester,NY,,,,
-Sacramento,Sacramento,CA,,,,
-Hampden,Springfield,MA,,,,
-Sangamon,Springfield,IL,,,,
-St. Louis City ,St Louis,MO,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+﻿County,City,State
+Hartford,Hartford,CT
+District of Columbia ,Washington DC,DC
+Dekalb,Atlanta,GA
+Fulton,Atlanta,GA
+Cobb,Atlanta,GA
+Baltimore City,Baltimore,MD
+Jefferson,Birmingham,AL
+Shelby,Birmingham,AL
+Mecklenburg,Charlotte,NC
+Cook,Chicago,IL
+Cuyahoga,Cleveland,OH
+Richland,Columbia,SC
+Liberty,Houston ,TX
+Harris,Houston,TX
+Fort Bend,Houston,TX
+Brazoria,Houston,TX
+Montgomery,Houston ,TX
+Galveston,Houston,TX
+Waller,Houston,TX
+Marion,Indianapolis,IN
+Jackson,Kansas City,MO
+Knox,Knoxville,TN
+Jefferson,Louisville,KY
+Lorain,Lorain County,OH
+Los Angeles,Los Angeles,CA
+Milwaukee,Milwaukee,WI
+Brooklyn,New York ,NY
+Staten Island,New York,NY
+Queens,New York ,NY
+New York,New York,NY
+Bronx,New York ,NY
+Allegheny,Pittsburgh,PA
+Philadelphia,Philadelphia,PA
+Monroe,Rochester,NY
+Sacramento,Sacramento,CA
+Hampden,Springfield,MA
+Sangamon,Springfield,IL
+St. Louis City ,St Louis,MO
